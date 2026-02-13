@@ -52,6 +52,9 @@ Curadoria de Conteúdo
 
 Engenharia de Prompt
 
+### Caminho NotebookLM
+https://notebooklm.google.com/notebook/47bc623f-642d-4bea-ab20-063537b61fde
+
 ## Autor
 
 Marcos Melo
