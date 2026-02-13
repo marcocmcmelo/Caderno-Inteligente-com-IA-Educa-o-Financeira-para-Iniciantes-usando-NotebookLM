@@ -1,4 +1,4 @@
-# Caderno-Inteligente-com-IA-Educa-o-Financeira-para-Iniciantes-usando-NotebookLM
+# Educação Financeira para Iniciantes Usando NotebookLM
 ## Descrição do Projeto
 
 Este projeto demonstra o uso da Inteligência Artificial como ferramenta de aprendizagem ativa por meio da criação de um caderno temático no NotebookLM. O objetivo foi estudar fundamentos de educação financeira para iniciantes através de curadoria de fontes abertas, engenharia de prompts e análise crítica das respostas geradas por IA.
